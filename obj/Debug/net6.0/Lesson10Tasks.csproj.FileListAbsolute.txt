@@ -1,0 +1,14 @@
+/Users/zeyneb/Projects/Lesson10Tasks/bin/Debug/net6.0/Lesson10Tasks
+/Users/zeyneb/Projects/Lesson10Tasks/bin/Debug/net6.0/Lesson10Tasks.deps.json
+/Users/zeyneb/Projects/Lesson10Tasks/bin/Debug/net6.0/Lesson10Tasks.runtimeconfig.json
+/Users/zeyneb/Projects/Lesson10Tasks/bin/Debug/net6.0/Lesson10Tasks.dll
+/Users/zeyneb/Projects/Lesson10Tasks/bin/Debug/net6.0/Lesson10Tasks.pdb
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.AssemblyInfo.cs
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.dll
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/refint/Lesson10Tasks.dll
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.pdb
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/Lesson10Tasks.genruntimeconfig.cache
+/Users/zeyneb/Projects/Lesson10Tasks/obj/Debug/net6.0/ref/Lesson10Tasks.dll
